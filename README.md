@@ -14,7 +14,7 @@ To use:
 ```sh
 $ python extractmusic.py SuperMetroid.sfc > music.json
 $ cp SuperMetroid.sfc RomToBeModified.sfc
-$ python <name of any of the other scripts>.py RomToBeModified.sfc
+$ python <name of any of the rando scripts>.py RomToBeModified.sfc
 ```
 
 Please don't overwrite your actual backup copy of the real ROM. No warranties.
